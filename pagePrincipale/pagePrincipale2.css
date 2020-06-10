@@ -1,0 +1,266 @@
+
+.trait1{
+    
+    border-bottom:1px ridge chartreuse;
+    top: 5%;
+    left: 0%;
+    position: absolute;
+    opacity: 0.20;
+      -webkit-animation: trait1 4s 500ms normal ease-out forwards;
+      animation: trait1 4s 500ms normal ease-out forwards 
+    
+}
+.trait2{
+    border-bottom:1px ridge chartreuse;
+    top: 10%;
+    left: 0%;
+    position: absolute;
+    opacity: 0.20;
+      -webkit-animation: trait2 3s 500ms normal ease-out forwards;
+      animation: trait2 3s 500ms normal ease-out forwards 
+}
+.trait3{
+    border-bottom:1px ridge chartreuse;
+    top: 15%;
+    left: 0%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: trait3 4s 500ms normal ease-out forwards;
+      animation: trait3 4s 500ms normal ease-out forwards 
+}
+.trait4{
+    border-bottom:1px ridge chartreuse;
+    top: 20%;
+    left: 0%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: trait4 3s 500ms normal ease-out forwards;
+      animation: trait4 3s 500ms normal ease-out forwards 
+}
+.trait5{
+    border-bottom:1px ridge chartreuse;
+    top: 25%;
+    left: 0%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: trait5 4s 500ms normal ease-out forwards;
+      animation: trait5 4s 500ms normal ease-out forwards 
+}
+.trait6{
+    border-bottom:1px ridge chartreuse;
+    top: 30%;
+    left: 0%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: trait6 3s 500ms normal ease-out forwards;
+      animation: trait6 3s 500ms normal ease-out forwards 
+}
+.trait7{
+    border-bottom:1px ridge chartreuse;
+    top: 35%;
+    left: 0%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: trait7 4s 500ms normal ease-out forwards;
+      animation: trait7 4s 500ms normal ease-out forwards 
+}
+.trait8{
+    border-bottom:1px ridge chartreuse;
+    top: 40%;
+    left: 0%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: trait8 3s 500ms normal ease-out forwards;
+      animation: trait8 3s 500ms normal ease-out forwards 
+}
+.trait9{
+    border-bottom:1px ridge chartreuse;
+    top: 45%;
+    left: 0%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: trait9 4s 500ms normal ease-out forwards;
+      animation: trait9 4s 500ms normal ease-out forwards 
+}
+.trait10{
+    border-bottom:1px ridge chartreuse;
+    top: 50%;
+    left: 0%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: trait10 3s 500ms normal ease-out forwards;
+      animation: trait10 3s 500ms normal ease-out forwards 
+}
+.trait11{
+    border-bottom:1px ridge chartreuse;
+    top: 55%;
+    left: 0%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: trait11 4s 500ms normal ease-out forwards;
+      animation: trait11 4s 500ms normal ease-out forwards 
+}
+.trait12{
+    border-bottom:1px ridge chartreuse;
+    top: 60%;
+    left: 0%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: trait12 3s 500ms normal ease-out forwards;
+      animation: trait12 3s 500ms normal ease-out forwards 
+}
+.trait13{
+    border-bottom:1px ridge chartreuse;
+    top: 65%;
+    left: 0%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: trait13 4s 500ms normal ease-out forwards;
+      animation: trait13 4s 500ms normal ease-out forwards 
+}
+.trait14{
+    border-bottom:1px ridge chartreuse;
+    top: 70%;
+    left: 0%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: trait14 3s 500ms normal ease-out forwards;
+      animation: trait14 3s 500ms normal ease-out forwards 
+}
+.trait15{
+    border-bottom:1px ridge chartreuse;
+    top: 75%;
+    left: 0%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: trait15 4s 500ms normal ease-out forwards;
+      animation: trait15 4s 500ms normal ease-out forwards 
+}
+.trait16{
+    
+    border-bottom:1px ridge chartreuse;
+    top: 80%;
+    left: 0%;
+    position: absolute;
+    opacity: 0.20;
+      -webkit-animation: trait16 3s 500ms normal ease-out forwards;
+      animation: trait16 3s 500ms normal ease-out forwards 
+    
+}
+.trait17{
+    border-bottom:1px ridge chartreuse;
+    top: 85%;
+    left: 0%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: trait18 4s 500ms normal ease-out forwards;
+      animation: trait18 4s 500ms normal ease-out forwards 
+}
+.trait18{
+    border-bottom:1px ridge chartreuse;
+    top: 90%;
+    left: 0%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: trait18 3s 500ms normal ease-out forwards;
+      animation: trait18 3s 500ms normal ease-out forwards 
+}
+.trait19{
+    border-bottom:1px ridge chartreuse;
+    top: 95%;
+    left: 0%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: trait19 4s 500ms normal ease-out forwards;
+      animation: trait19 4s 500ms normal ease-out forwards 
+}
+.trait20{
+    border-bottom:1px ridge chartreuse;
+    top: 100%;
+    left: 0%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: trait20 3s 500ms normal ease-out forwards;
+      animation: trait20 3s 500ms normal ease-out forwards 
+}
+  @keyframes trait1
+  {0% {width: 0px;}
+  100% {width: 100%;}}
+
+  @keyframes trait2
+  {0% {width: 0px;}
+  100% {width: 100%;}}
+
+  @keyframes trait3
+  {0% {width: 0px;}
+  100% {width: 100%;}}
+
+  @keyframes trait4
+  {0% {width: 0px;}
+  100% {width: 100%;}}
+
+  @keyframes trait5
+  {0% {width: 0px;}
+  100% {width: 100%;}}
+
+  @keyframes trait6
+  {0% {width: 0px;}
+  100% {width: 100%;}}
+
+  @keyframes trait7
+  {0% {width: 0px;}
+  100% {width: 100%;}}
+
+  @keyframes trait8
+  {0% {width: 0px;}
+  100% {width: 100%;}}
+
+  @keyframes trait9
+  {0% {width: 0px;}
+  100% {width: 100%;}}
+
+  @keyframes trait10
+  {0% {width: 0px;}
+  100% {width: 100%;}}
+
+  @keyframes trait11
+  {0% {width: 0px;}
+  100% {width: 100%;}}
+
+  @keyframes trait12
+  {0% {width: 0px;}
+  100% {width: 100%;}}
+
+  @keyframes trait13
+  {0% {width: 0px;}
+  100% {width: 100%;}}
+
+  @keyframes trait14
+  {0% {width: 0px;}
+  100% {width: 100%;}}
+
+  @keyframes trait15
+  {0% {width: 0px;}
+  100% {width: 100%;}}
+
+  @keyframes trait16
+  {0% {width: 0px;}
+  100% {width: 100%;}}
+
+  @keyframes trait17
+  {0% {width: 0px;}
+  100% {width: 100%;}}
+
+  @keyframes trait18
+  {0% {width: 0px;}
+  100% {width: 100%;}}
+
+  @keyframes trait19
+  {0% {width: 0px;}
+  100% {width: 100%;}}
+
+  @keyframes trait20
+  {0% {width: 0px;}
+  100% {width: 100%;}}
+
+ 

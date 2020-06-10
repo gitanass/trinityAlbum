@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.plus1{
+position: absolute;
+top: 4%;
+left: 2%;
+background: none;
+}
+
+.plus2{
+position: absolute;
+top: 4%;
+right: 2%;
+background: none;
+}
+
+.plus3{
+position: absolute;
+bottom: 4%;
+left: 2%;
+background: none;
+}
+
+
+.plus4{
+position: absolute;
+bottom: 4%;
+right: 2%;
+background: none;
+}
+
+.button1{
+    font-family: 'Orbitron', sans-serif;
+    position: absolute;
+    top: 46.4%;
+    left: 2.6%;
+    background: none;
+    color: chartreuse;
+    border: none;
+    font-weight: 500;
+    font-size: 17px;
+}
+
+.button2{
+    font-family: 'Orbitron', sans-serif;
+    position: absolute;
+    top: 51.3%;
+    left: 2.6%;
+    background: none;
+    color: chartreuse;
+    border: none;
+    font-weight: 500;
+    font-size: 17px;
+}
+
+.button3{
+    font-family: 'Orbitron', sans-serif;
+    position: absolute;
+    top: 46.4%;
+    right: 2.6%;
+    background: none;
+    color: chartreuse;
+    border: none;
+    font-weight: 500;
+    font-size: 17px;
+}
+
+.button4{
+    font-family: 'Orbitron', sans-serif;
+    position: absolute;
+    top: 51.3%;
+    right: 3.4%;
+    background: none;
+    color: chartreuse;
+    border: none;
+    font-weight: 500;
+    font-size: 17px;
+}
+
+.vers3{
+    
+    position: absolute;
+    top: 80%;
+    left: 45%;
+    background: none;
+    border: none;
+}

@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&family=Roboto+Mono:wght@300&display=swap');
+
+
+*{
+margin: 0;
+padding: 0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap');
+*{
+margin: 0;
+padding: 0;
+}
+
+.plus1{
+position: absolute;
+top: 4%;
+left: 2%;
+background: none;
+}
+
+.plus2{
+position: absolute;
+top: 4%;
+right: 2%;
+background: none;
+}
+
+.plus3{
+position: absolute;
+bottom: 4%;
+left: 2%;
+background: none;
+}
+
+
+.plus4{
+position: absolute;
+bottom: 4%;
+right: 2%;
+background: none;
+}
+
+.button1{
+font-family: 'Orbitron', sans-serif;
+position: absolute;
+top: 26.1%;
+left: 23.5%;
+background: none;
+color: chartreuse;
+border: none;
+font-weight: 500;
+font-size: 19px;
+}
+
+.button2{
+font-family: 'Orbitron', sans-serif;
+position: absolute;
+top: 26.1%;
+left: 37.5%;
+background: none;
+color: chartreuse;
+border: none;
+font-weight: 500;
+font-size: 19px;
+}
+
+.button3{
+font-family: 'Orbitron', sans-serif;
+position: absolute;
+top: 26.1%;
+right: 38.8%;
+background: none;
+color: chartreuse;
+border: none;
+
+font-weight: 500;
+font-size: 19px;
+}
+
+.button4{
+font-family: 'Orbitron', sans-serif;
+position: absolute;
+top: 26.1%;
+right: 26.4%;
+background: none;
+color: chartreuse;
+border: none;
+font-weight: 500;
+font-size: 19px;
+}
+
+.Logo{
+
+position: absolute;
+top: 8.5%;
+right: 30.9%;
+background: none;
+
+}
+
+.vers4{
+
+position: absolute;
+top: 80%;
+left: 45%;
+background: none;
+border: none;
+}
+.bio1{
+
+position: absolute;
+top: 35.2%;
+left: 22%;
+border: solid chartreuse 2px;
+border-radius: 5px;
+}
+
+.paragraphe1{
+font-family: 'Inconsolata', monospace;
+color: white;
+position: absolute;
+top: 37.2%;
+left: 40%;
+/* border: solid chartreuse 2px; */
+border-radius: 5px;
+height: 19.5%;
+width: 33.5%;
+opacity: 80%;
+}
+
+.paragraphe2{
+font-family: 'Inconsolata', monospace;
+color: white;
+position: absolute;
+top: 61.4%;
+left: 40%;
+/* border: solid chartreuse 2px; */
+border-radius: 5px;
+height: 28.5%;
+width: 15.5%;
+opacity: 80%;
+}
+.paragraphe3{
+font-family: 'Inconsolata', monospace;
+color: white;
+position: absolute;
+top: 61.4%;
+left: 56%;
+/* border: solid chartreuse 2px; */
+border-radius: 5px;
+height: 28.5%;
+width: 17.5%;
+opacity: 80%;
+font-size: .0.1rem;
+}
+.button5{
+    font-family: 'Orbitron', sans-serif;
+    position: absolute;
+    bottom: 0%;
+    right: 0%;
+    background: none;
+    color: chartreuse;
+    border:solid chartreuse 1px;
+    width: 7%;
+    height: 4%;
+    border-radius: 5px;
+    font-weight: 450;
+    font-size: 17px;
+}

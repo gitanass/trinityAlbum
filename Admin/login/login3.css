@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&family=Roboto+Mono:wght@300&display=swap');
+
+
+*{
+margin: 0;
+padding: 0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap');
+*{
+margin: 0;
+padding: 0;
+}
+
+.plus1{
+position: absolute;
+top: 4%;
+left: 2%;
+background: none;
+}
+
+.plus2{
+position: absolute;
+top: 4%;
+right: 2%;
+background: none;
+}
+
+.plus3{
+position: absolute;
+bottom: 4%;
+left: 2%;
+background: none;
+}
+
+
+.plus4{
+position: absolute;
+bottom: 4%;
+right: 2%;
+background: none;
+}
+
+
+
+.Logo{
+
+position: absolute;
+top: 8.5%;
+right: 30.9%;
+background: none;
+
+}
+
+
+.modal-content{
+    font-family: 'Orbitron', sans-serif;
+    position: absolute;
+    top: 32%;
+    left: 34.4%;
+    background: none;
+    color: chartreuse;
+    border:solid chartreuse 2px;
+    border-radius: 5px;
+    height: 35%;
+    width: 30%;
+
+}
+
+.input1{
+    font-family: 'Orbitron', sans-serif;
+    position: absolute;
+    top: 30%;
+    left: 15%;
+    border-radius: 5px;
+    height:14%;
+    width: 70%;
+
+}
+
+.input2{
+    font-family: 'Orbitron', sans-serif;
+    position: absolute;
+    top: 50%;
+    left: 15%;
+    border-radius: 5px;
+    height:14%;
+    width: 70%;
+
+}
+
+.btn{
+    color: chartreuse;
+    font-family: 'Orbitron', sans-serif;
+    position: absolute;
+    top: 70%;
+    left: 15%;
+    border:2px solid chartreuse;
+    background: none;
+    border-radius: 5px;
+    height:15%;
+    width: 70%;
+}
+
+h1{
+    color: chartreuse;
+    font-family: 'Orbitron', sans-serif;
+    position: absolute;
+    top: 10%;
+    left: 30%;
+
+}

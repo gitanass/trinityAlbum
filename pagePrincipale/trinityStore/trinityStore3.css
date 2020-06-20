@@ -1,0 +1,205 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono&family=Orbitron:wght@500&display=swap');
+
+
+
+
+*{
+margin: 0;
+padding: 0;
+}
+
+.plus1{
+position: absolute;
+top: 4%;
+left: 2%;
+background: none;
+}
+
+.plus2{
+position: absolute;
+top: 4%;
+right: 2%;
+background: none;
+}
+
+.plus3{
+position: absolute;
+bottom: 4%;
+left: 2%;
+background: none;
+}
+
+
+.plus4{
+position: absolute;
+bottom: 4%;
+right: 2%;
+background: none;
+}
+
+.button1{
+font-family: 'Orbitron', sans-serif;
+position: absolute;
+top: 26.1%;
+left: 23.5%;
+background: none;
+color: chartreuse;
+border: none;
+font-weight: 500;
+font-size: 19px;
+}
+
+.button2{
+font-family: 'Orbitron', sans-serif;
+position: absolute;
+top: 26.1%;
+left: 37.5%;
+background: none;
+color: chartreuse;
+border: none;
+font-weight: 500;
+font-size: 19px;
+}
+
+.button3{
+font-family: 'Orbitron', sans-serif;
+position: absolute;
+top: 26.1%;
+right: 38.8%;
+background: none;
+color: chartreuse;
+border: none;
+
+font-weight: 500;
+font-size: 19px;
+}
+
+.button4{
+font-family: 'Orbitron', sans-serif;
+position: absolute;
+top: 26.1%;
+right: 26.4%;
+background: none;
+color: chartreuse;
+border: none;
+font-weight: 500;
+font-size: 19px;
+}
+
+.Logo{
+
+position: absolute;
+top: 8.5%;
+right: 30.9%;
+background: none;
+
+}
+
+.pochette1{
+
+position: absolute;
+top: 46.9%;
+right: 7.8%;
+background: none;
+border: chartreuse solid 2px;
+border-radius: 5px;
+
+}
+
+
+
+
+
+h1{
+font-family: 'Orbitron', sans-serif;
+color: white;
+position: absolute;
+top: 40.8%;
+left: 37.1%;
+font-size: 22px;
+letter-spacing: .2rem;
+
+}
+
+h2{
+font-family: 'DM Mono', monospace;
+color: chartreuse;
+position: absolute;
+top: 51.8%;
+left: 39.1%;
+font-size: 21px;
+}
+
+h3{
+font-family: 'DM Mono', monospace;
+color: white;
+position: absolute;
+top: 56.9%;
+left: 39.1%;
+font-size: 21px;
+
+}
+
+h4{
+font-family: 'DM Mono', monospace;
+color: white;
+position: absolute;
+top: 56.9%;
+left: 53.7%;
+font-size: 21px;
+line-height: 180%;
+
+
+}
+
+.acheter{
+font-family: 'Orbitron', sans-serif;
+color: chartreuse;
+position: absolute;
+top: 77.8%;
+left: 48.9%;
+font-size: 18px;
+border: chartreuse solid 2px;
+border-radius: 5px;
+background: none;
+width: 13%;
+height: 7% ;
+
+}
+h5{
+font-family: 'DM Mono', monospace;
+color: white;
+position: absolute;
+top: 81%;
+right: 13%;
+font-size: 20px;
+line-height: 180%;
+
+}
+
+.laylow-playliste{
+border: chartreuse solid 2px;
+border-radius: 5px;
+position: absolute;
+top: 35.4%;
+left: 15.3%;
+}
+
+.button5{
+    font-family: 'Orbitron', sans-serif;
+    position: absolute;
+    bottom: 0%;
+    right: 0%;
+    background: none;
+    color: chartreuse;
+    border:solid chartreuse 1px;
+    width: 7%;
+    height: 4%;
+    border-radius: 5px;
+    font-weight: 450;
+    font-size: 17px;
+}
+    
+
+

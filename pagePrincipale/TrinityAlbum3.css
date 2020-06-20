@@ -1,0 +1,249 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2&family=DM+Mono&family=Orbitron:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&family=PT+Sans:ital@1&family=Roboto+Mono:wght@300&display=swap');
+
+
+
+*{
+margin: 0;
+padding: 0;
+}
+
+.plus1{
+position: absolute;
+top: 4%;
+left: 2%;
+background: none;
+}
+
+.plus2{
+position: absolute;
+top: 4%;
+right: 2%;
+background: none;
+}
+
+.plus3{
+position: absolute;
+bottom: 4%;
+left: 2%;
+background: none;
+}
+
+
+.plus4{
+position: absolute;
+bottom: 4%;
+right: 2%;
+background: none;
+}
+
+.button1{
+font-family: 'Orbitron', sans-serif;
+position: absolute;
+top: 26.1%;
+left: 23.5%;
+background: none;
+color: chartreuse;
+border: none;
+font-weight: 500;
+font-size: 19px;
+}
+
+.button2{
+font-family: 'Orbitron', sans-serif;
+position: absolute;
+top: 26.1%;
+left: 37.5%;
+background: none;
+color: chartreuse;
+border: none;
+font-weight: 500;
+font-size: 19px;
+}
+
+.button3{
+font-family: 'Orbitron', sans-serif;
+position: absolute;
+top: 26.1%;
+right: 38.8%;
+background: none;
+color: chartreuse;
+border: none;
+
+font-weight: 500;
+font-size: 19px;
+}
+
+.button4{
+font-family: 'Orbitron', sans-serif;
+position: absolute;
+top: 26.1%;
+right: 26.4%;
+background: none;
+color: chartreuse;
+border: none;
+font-weight: 500;
+font-size: 19px;
+}
+
+.Logo{
+
+position: absolute;
+top: 8.5%;
+right: 30.9%;
+background: none;
+
+}
+.bare{
+
+position: absolute;
+bottom: 0%;
+right: 13%;
+background: none;
+
+}
+.bare1{
+
+position: absolute;
+bottom: 0%;
+left: 13%;
+background: none;
+
+}
+.bare2{
+
+position: absolute;
+bottom: 0%;
+left: 38%;
+background: none;
+
+}
+
+.instagram{
+
+position: absolute;
+bottom: 10%;
+left: 42.27%;
+background: none;
+
+}
+.facebook{
+
+position: absolute;
+bottom: 10%;
+left: 48.2%;
+background: none;
+
+}
+.twitter{
+
+position: absolute;
+bottom: 9.8%;
+left: 54.2%;
+background: none;
+
+}
+
+.pochette1{
+
+position: absolute;
+top: 40.8%;
+left: 6.4%;
+background: none;
+border: chartreuse solid 2px;
+border-radius: 5px;
+
+}
+
+.pochette2{
+
+position: absolute;
+top: 40.9%;
+right: 7.3%;
+background: none;
+border: chartreuse solid 2px;
+border-radius: 5px;
+
+}
+
+.paragraphe1{
+font-family: 'Baloo 2', cursive;
+font-size: 1.06rem;
+line-height: 107%;
+position: absolute;
+top: 40.9%;
+left: 24.5%;
+background: none;
+/* border: chartreuse solid 2px; */
+height: 33%;
+width: 16%;
+color: white;
+opacity:85%;
+}
+
+.paragraphe2{
+font-family: 'Baloo 2', cursive;
+font-weight: 1%;
+line-height: 107%;
+position: absolute;
+top: 40.9%;
+left: 41.8%;
+background: none;
+/* border: chartreuse solid 2px; */
+height: 33%;
+width: 16%;
+color: white;
+opacity:85%;
+}
+
+.paragraphe3{
+font-family: 'Baloo 2', cursive;
+font-weight: 1%;
+line-height: 107%;
+position: absolute;
+top: 40.9%;
+right:25%;
+background: none;
+/* border: chartreuse solid 2px; */
+height: 33%;
+width: 16%;
+color: white;
+opacity:85%;
+}
+
+h1{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 1.8rem;
+    position: absolute;
+    top: 36.4%;
+    left:24.4%;
+    color: white;
+    opacity:90%;
+
+    }
+h2{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 1.8rem;
+    position: absolute;
+    top: 36.4%;
+    right:35.1%;
+    color: white;
+    opacity:90%;
+    }
+
+.button5{
+    font-family: 'Orbitron', sans-serif;
+    position: absolute;
+    bottom: 0%;
+    right: 0%;
+    background: none;
+    color: chartreuse;
+    border:solid chartreuse 1px;
+    width: 7%;
+    height: 4%;
+    border-radius: 5px;
+    font-weight: 450;
+    font-size: 17px;
+}

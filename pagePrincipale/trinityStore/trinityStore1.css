@@ -1,0 +1,451 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color:black;
+}
+/* /// */
+.right1{
+    
+    border-left:1px ridge chartreuse;
+    top: 0%;
+    left: 3%;
+    position: absolute;
+    opacity: 0.20;
+      -webkit-animation: right1 4s 500ms normal ease-out forwards;
+      animation: right1 4s 500ms normal ease-out forwards 
+    
+}
+.right2{
+    border-left:1px ridge chartreuse;
+    top: 0%;
+    left: 6%;
+    position: absolute;
+    opacity: 0.20;
+      -webkit-animation: right2 3s 500ms normal ease-out forwards;
+      animation: right2 3s 500ms normal ease-out forwards 
+}
+.right3{
+    border-left:1px ridge chartreuse;
+    top: 0%;
+    left: 9%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: right3 4s 500ms normal ease-out forwards;
+      animation: right3 4s 500ms normal ease-out forwards 
+}
+.right4{
+    border-left:1px ridge chartreuse;
+    top: 0%;
+    left: 12%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: right4 3s 500ms normal ease-out forwards;
+      animation: right4 3s 500ms normal ease-out forwards 
+}
+.right5{
+    border-left:1px ridge chartreuse;
+    top: 0%;
+    left: 15%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: right5 4s 500ms normal ease-out forwards;
+      animation: right5 4s 500ms normal ease-out forwards 
+}
+.right6{
+    border-left:1px ridge chartreuse;
+    top: 0%;
+    left: 18%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: right6 3s 500ms normal ease-out forwards;
+      animation: right6 3s 500ms normal ease-out forwards 
+}
+.right7{
+    border-left:1px ridge chartreuse;
+    top: 0%;
+    left: 21%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: right7 4s 500ms normal ease-out forwards;
+      animation: right7 4s 500ms normal ease-out forwards 
+}
+.right8{
+    border-left:1px ridge chartreuse;
+    top: 0%;
+    left: 24%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: right8 3s 500ms normal ease-out forwards;
+      animation: right8 3s 500ms normal ease-out forwards 
+}
+.right9{
+    border-left:1px ridge chartreuse;
+    top: 0%;
+    left: 27%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: right9 4s 500ms normal ease-out forwards;
+      animation: right9 4s 500ms normal ease-out forwards 
+}
+.right10{
+    border-left:1px ridge chartreuse;
+    top: 0%;
+    left: 30%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: right10 3s 500ms normal ease-out forwards;
+      animation: right10 3s 500ms normal ease-out forwards 
+}
+.right11{
+    border-left:1px ridge chartreuse;
+    top: 0%;
+    left: 33%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: right11 4s 500ms normal ease-out forwards;
+      animation: right11 4s 500ms normal ease-out forwards 
+}
+.right12{
+    border-left:1px ridge chartreuse;
+    top: 0%;
+    left: 36%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: right12 3s 500ms normal ease-out forwards;
+      animation: right12 3s 500ms normal ease-out forwards 
+}
+.right13{
+    border-left:1px ridge chartreuse;
+    top: 0%;
+    left: 39%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: right13 4s 500ms normal ease-out forwards;
+      animation: right13 4s 500ms normal ease-out forwards 
+}
+.right14{
+    border-left:1px ridge chartreuse;
+    top: 0%;
+    left: 42%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: right14 3s 500ms normal ease-out forwards;
+      animation: right14 3s 500ms normal ease-out forwards 
+}
+.right15{
+    border-left:1px ridge chartreuse;
+    top: 0%;
+    left: 45%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: right15 4s 500ms normal ease-out forwards;
+      animation: right15 4s 500ms normal ease-out forwards 
+}
+.right16{
+    
+    border-left:1px ridge chartreuse;
+    top: 0%;
+    left: 48%;
+    position: absolute;
+    opacity: 0.20;
+      -webkit-animation: right16 3s 500ms normal ease-out forwards;
+      animation: right16 3s 500ms normal ease-out forwards 
+    
+}
+.right17{
+    border-left:1px ridge chartreuse;
+    top: 0%;
+    left: 51%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: right18 4s 500ms normal ease-out forwards;
+      animation: right18 4s 500ms normal ease-out forwards 
+}
+.right18{
+    border-left:1px ridge chartreuse;
+    top: 0%;
+    left: 54%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: right18 3s 500ms normal ease-out forwards;
+      animation: right18 3s 500ms normal ease-out forwards 
+}
+.right19{
+    border-left:1px ridge chartreuse;
+    top: 0%;
+    left: 57%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: right19 4s 500ms normal ease-out forwards;
+      animation: right19 4s 500ms normal ease-out forwards 
+}
+.right20{
+    border-left:1px ridge chartreuse;
+    top: 0%;
+    left: 60%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: right20 3s 500ms normal ease-out forwards;
+      animation: right20 3s 500ms normal ease-out forwards 
+}
+.right21{
+    border-left:1px ridge chartreuse;
+    top: 0%;
+    left: 63%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: right21 4s 500ms normal ease-out forwards;
+      animation: right21 4s 500ms normal ease-out forwards 
+}
+.right22{
+    border-left:1px ridge chartreuse;
+    top: 0%;
+    left: 66%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: right22 3s 500ms normal ease-out forwards;
+      animation: right22 3s 500ms normal ease-out forwards 
+}
+.right23{
+    border-left:1px ridge chartreuse;
+    top: 0%;
+    left: 69%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: right23 4s 500ms normal ease-out forwards;
+      animation: right23 4s 500ms normal ease-out forwards 
+}
+.right24{
+    border-left:1px ridge chartreuse;
+    top: 0%;
+    left: 72%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: right24 3s 500ms normal ease-out forwards;
+      animation: right24 3s 500ms normal ease-out forwards 
+}
+.right25{
+    border-left:1px ridge chartreuse;
+    top: 0%;
+    left: 75%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: right25 4s 500ms normal ease-out forwards;
+      animation: right25 4s 500ms normal ease-out forwards 
+}
+.right26{
+    border-left:1px ridge chartreuse;
+    top: 0%;
+    left: 78%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: right26 3s 500ms normal ease-out forwards;
+      animation: right26 3s 500ms normal ease-out forwards 
+}
+.right27{
+    border-left:1px ridge chartreuse;
+    top: 0%;
+    left: 81%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: right27 4s 500ms normal ease-out forwards;
+      animation: right27 4s 500ms normal ease-out forwards 
+}
+.right28{
+    border-left:1px ridge chartreuse;
+    top: 0%;
+    left: 84%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: right28 3s 500ms normal ease-out forwards;
+      animation: right28 3s 500ms normal ease-out forwards 
+}
+.right29{
+    border-left:1px ridge chartreuse;
+    top: 0%;
+    left: 87%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: right29 4s 500ms normal ease-out forwards;
+      animation: right29 4s 500ms normal ease-out forwards 
+}
+.right30{
+    border-left:1px ridge chartreuse;
+    top: 0%;
+    left: 90%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: right30 3s 500ms normal ease-out forwards;
+      animation: right30 3s 500ms normal ease-out forwards 
+}
+.right31{
+    border-left:1px ridge chartreuse;
+    top: 0%;
+    left: 93%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: right31 4s 500ms normal ease-out forwards;
+      animation: right31 4s 500ms normal ease-out forwards 
+}
+.right32{
+    border-left:1px ridge chartreuse;
+    top: 0%;
+    left: 96%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: right32 3s 500ms normal ease-out forwards;
+      animation: right32 3s 500ms normal ease-out forwards 
+}
+.right33{
+    border-left:1px ridge chartreuse;
+    top: 0%;
+    left: 99%;
+    position: absolute;
+    opacity: 0.20;  
+      -webkit-animation: right33 4s 500ms normal ease-out forwards;
+      animation: right33 4s 500ms normal ease-out forwards 
+}
+
+@keyframes right1{
+0% {height: 0px;}
+100% {height: 100%;}}
+
+@keyframes right2{
+0% {height: 0px;}
+100% {height: 100%;}}
+
+@keyframes right3{
+0% {height: 0px;}
+100% {height: 100%;}}
+
+@keyframes right4{
+0% {height: 0px;}
+100% {height: 100%;}}
+
+@keyframes right5{
+0% {height: 0px;}
+100% {height: 100%;}}
+
+@keyframes right6{
+0% {height: 0px;}
+100% {height: 100%;}}
+
+@keyframes right7{
+0% {height: 0px;}
+100% {height: 100%;}}
+
+@keyframes right8{
+0% {height: 0px;}
+100% {height: 100%;}}
+
+@keyframes right9{
+0% {height: 0px;}
+100% {height: 100%;}}
+
+@keyframes right10{
+0% {height: 0px;}
+100% {height: 100%;}}
+
+@keyframes right11{
+0% {height: 0px;}
+100% {height: 100%;}}
+
+@keyframes right12{
+0% {height: 0px;}
+100% {height: 100%;}}
+
+@keyframes right13{
+0% {height: 0px;}
+100% {height: 100%;}}
+
+@keyframes right14{
+0% {height: 0px;}
+100% {height: 100%;}}
+
+@keyframes right15{
+0% {height: 0px;}
+100% {height: 100%;}}
+    
+@keyframes right16{
+0% {height: 0px;}
+100% {height: 100%;}}
+
+@keyframes right17{
+0% {height: 0px;}
+100% {height: 100%;}}
+
+@keyframes right18{
+0% {height: 0px;}
+100% {height: 100%;}}
+
+@keyframes right19{
+0% {height: 0px;}
+100% {height: 100%;}}
+
+@keyframes right20{
+0% {height: 0px;}
+100% {height: 100%;}}
+
+@keyframes right21{
+0% {height: 0px;}
+100% {height: 100%;}}
+
+@keyframes right22{
+0% {height: 0px;}
+100% {height: 100%;}}
+
+@keyframes right23{
+0% {height: 0px;}
+100% {height: 100%;}}
+
+@keyframes right24{
+0% {height: 0px;}
+100% {height: 100%;}}
+
+@keyframes right25{
+0% {height: 0px;}
+100% {height: 100%;}}
+
+@keyframes right26{
+0% {height: 0px;}
+100% {height: 100%;}}
+
+@keyframes right27{
+0% {height: 0px;}
+100% {height: 100%;}}
+
+@keyframes right28{
+0% {height: 0px;}
+100% {height: 100%;}}
+
+@keyframes right29{
+0% {height: 0px;}
+100% {height: 100%;}}
+
+@keyframes right30{
+0% {height: 0px;}
+100% {height: 100%;}}
+
+@keyframes right31{
+0% {height: 0px;}
+100% {height: 100%;}}
+
+@keyframes right32{
+0% {height: 0px;}
+100% {height: 100%;}}
+
+@keyframes right33{
+0% {height: 0px;}
+100% {height: 100%;}}
+
+

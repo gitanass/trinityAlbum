@@ -1,0 +1,1 @@
+{"version":3,"sources":["script.js"],"names":["myFunction","location","replace"],"mappings":"AAAA,SAASA,UAAT,GAAsB;AAClBC,EAAAA,QAAQ,CAACC,OAAT,CAAiB,oCAAjB;AACD","file":"script.75da7f30.js","sourceRoot":"..","sourcesContent":["function myFunction() {\n    location.replace(\"pagePrincipale/pagePrincipale.html\")\n  }"]}

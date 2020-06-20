@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap');
+*{
+margin: 0;
+padding: 0;
+}
+
+.plus1{
+position: absolute;
+top: 4%;
+left: 2%;
+background: none;
+}
+
+.plus2{
+position: absolute;
+top: 4%;
+right: 2%;
+background: none;
+}
+
+.plus3{
+position: absolute;
+bottom: 4%;
+left: 2%;
+background: none;
+}
+
+
+.plus4{
+position: absolute;
+bottom: 4%;
+right: 2%;
+background: none;
+}
+
+.button1{
+    font-family: 'Orbitron', sans-serif;
+    position: absolute;
+    top: 26.1%;
+    left: 23.5%;
+    background: none;
+    color: chartreuse;
+    border: none;
+    font-weight: 500;
+    font-size: 19px;
+    }
+    
+    .button2{
+    font-family: 'Orbitron', sans-serif;
+    position: absolute;
+    top: 26.1%;
+    left: 37.5%;
+    background: none;
+    color: chartreuse;
+    border: none;
+    font-weight: 500;
+    font-size: 19px;
+    }
+    
+    .button3{
+    font-family: 'Orbitron', sans-serif;
+    position: absolute;
+    top: 26.1%;
+    right: 38.8%;
+    background: none;
+    color: chartreuse;
+    border: none;
+    
+    font-weight: 500;
+    font-size: 19px;
+    }
+    
+    .button4{
+    font-family: 'Orbitron', sans-serif;
+    position: absolute;
+    top: 26.1%;
+    right: 26.4%;
+    background: none;
+    color: chartreuse;
+    border: none;
+    font-weight: 500;
+    font-size: 19px;
+    }
+    
+    .Logo{
+    
+    position: absolute;
+    top: 8.5%;
+    right: 30.9%;
+    background: none;
+    
+    }
+
+
+.concert{
+    font-family: 'Orbitron', sans-serif;
+    position: absolute;
+    bottom: 15%;
+    right: 15%;
+    background: none;
+    color: chartreuse;
+    border:solid chartreuse 1px;
+    width: 65%;
+    height: 40%;
+    border-radius: 5px;
+
+}
